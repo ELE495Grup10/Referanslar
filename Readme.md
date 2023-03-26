@@ -1,7 +1,7 @@
-[1] Jalil, A., Yousaf, H., & Baig, M. I. (2016, January). Analysis of CFAR techniques. In 2016 13th International Bhurban Conference on Applied Sciences and Technology (IBCAST) (pp. 654-659). IEEE.
-[2] MATLAB. (2022). Constant False-Alarm Rate (CFAR) Detectors. 22 Ocak 2023 tarihinde https://www.mathworks.com/help/phased/ug/constant-false-alarm-rate-cfar-detectors.html adresinden erişildi.
-[3] De Maio, A., Eldar, Y. C., & Haimovich, A. M. (Eds.). (2019). Compressed sensing in radar signal processing. Cambridge University Press.
-[4] Akhtar, J., & Olsen, K. E. (2019, April). GO-CFAR trained neural network target detectors. In 2019 IEEE Radar Conference (RadarConf) (pp. 1-5). IEEE.
+[1] Jalil, A., Yousaf, H., & Baig, M. I. (2016, January). Analysis of CFAR techniques. In 2016 13th International Bhurban Conference on Applied Sciences and Technology (IBCAST) (pp. 654-659). IEEE.\
+[2] MATLAB. (2022). Constant False-Alarm Rate (CFAR) Detectors. 22 Ocak 2023 tarihinde https://www.mathworks.com/help/phased/ug/constant-false-alarm-rate-cfar-detectors.html adresinden erişildi.\
+[3] De Maio, A., Eldar, Y. C., & Haimovich, A. M. (Eds.). (2019). Compressed sensing in radar signal processing. Cambridge University Press.\
+[4] Akhtar, J., & Olsen, K. E. (2019, April). GO-CFAR trained neural network target detectors. In 2019 IEEE Radar Conference (RadarConf) (pp. 1-5). IEEE.\
 [5] Yu, C., Zhang, Y., Luo, J., & Xiao, M. (2021). OSGOS-CFAR algorithm based on classification recognition.
 [6] AR, B. P., Kurniawan, D., & Miftahushudur, M. T. Switching CA/OS CFAR using Neural Network for Radar Target Detection in Non-Homogeneous Environment. cell, 1(4), 5.
 [7] Li, X., Yang, J., Zhu, H., Zheng, G., Zhao, Y., An, W., & Chen, P. (2021, November). An Improved CFAR_CNN Algorithm for Ship Target Detection. In 2021 Photonics & Electromagnetics Research Symposium (PIERS) (pp. 2057-2062). IEEE.
